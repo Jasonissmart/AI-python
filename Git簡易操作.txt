@@ -1,0 +1,20 @@
+從零開始建立:
+先在Githyb上建立一個新的Repository
+Open CMD
+cd to the folder
+type "git init"
+type "git add (file name)
+type "git commit -m "upload notes"
+copy "git remote add origin https://github.com/Jasonissmart/test.git" on ur github and 
+paste it to ur cmd
+type "git push -u origin master"
+
+
+更新新的資料:
+Open CMD
+cd to the folder
+type "git add ."   (means add all renewed files)
+type "git commit -m " "
+type "git push"
+
+之後若在github上做資料更改，下次使用本機時需要type "git push" 
